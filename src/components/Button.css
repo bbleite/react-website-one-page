@@ -40,7 +40,7 @@
   border-radius: 4px;
   width: 80%;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 1.5rem;
   background-color: transparent;
   color: #fff;
   padding: 14px 20px;
@@ -78,35 +78,35 @@
 }
 
 .blue {
-    background-color: #276afb;
-    color: #fff;
-    border: none;
+  background-color: #276afb;
+  color: #fff;
+  border: none;
 }
 
 .red {
-    background-color: #f00946;
-    color: #fff;
-    border: none;
+  background-color: #f00946;
+  color: #fff;
+  border: none;
 }
 
 .primary {
-    background-color: #242424;
-    color: #fff;
-    border: none;
+  background-color: #242424;
+  color: #fff;
+  border: none;
 }
 
 .primary:hover {
-    background-color: #fff;
-    color: #242424;
-    border: none;
+  background-color: #fff;
+  color: #242424;
+  border: none;
 }
 
 .green {
-    background-color: #25ce4a;
-    color: #fff;
-    border: none;
+  background: #25ce4a;
+  color: #fff;
+  border: none;
 }
 
 .green:hover {
-    background-color: #242424;
+  background-color: #242424;
 }
